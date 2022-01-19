@@ -10,7 +10,7 @@
 - Task 2.md bugs identified.
 - Task x.md
 - TestEvidence.zip is all bug test evidence.
-- qe-todolist.zip
+- ToDoListProject.zip
 
 ## Assessment answers:
 1. https://github.com/capesjeffrey/todolisttest/blob/main/Task%201.md
