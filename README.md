@@ -1,11 +1,18 @@
 # As instructed:
 
 1. All necessary files uploaded to GITHUB.
-2. Download the project.zip file, extract it and open the README.md file. You will find the links added to to the bottom of the file. (this was a bit unclear - I therefore followed it to the T)
-3. Please also find the test plan (task1.md) in the tests repository of the project.
+2. The necessary files are uploaded individually in the root of the repo for easy access and they're also in the "tests" repository of the zipped project as well.
+3. The links to the task files are added below as well as in the projects README.md file (please download and extract to view). 
 
-# Files:
+# Files in repo:
 
-- Task 1.md is the test plan.
-- Task 2.md contains all the bugs identified.
-- testevidence.rar is all bug test evidence.
+- Task 1.md test plan.
+- Task 2.md bugs identified.
+- Task x.md
+- TestEvidence.zip is all bug test evidence.
+- qe-todolist.zip
+
+## Assessment answers:
+1. https://github.com/capesjeffrey/todolisttest/blob/main/Task%201.md
+2. https://github.com/capesjeffrey/todolisttest/blob/main/Task%202.md
+3. 
