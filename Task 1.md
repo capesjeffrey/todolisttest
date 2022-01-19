@@ -1,8 +1,9 @@
 # TASK 1: Front-end test plan
 
-This test plan is aimed at covering the application's current requirements. 
+- This test plan is aimed at the QA Analyst performing the tests.
+- This document covers all test cases identified before and after having found bugs. 
 
-The current requirements for this app are:
+## The current requirements for this app are:
 
 1. Application must be able to deploy in docker
 2. Multiple users should be able to view the shared public todo list (no live updates, only on refresh)
@@ -12,7 +13,7 @@ The current requirements for this app are:
 6. Should be able to delete todo items
 7. Should be able to edit todo items
 
-Steps to get up and running on a Windows machine will be listed below:
+## Steps to get up and running on a Windows machine will be listed below:
 
 1. Downloaded the todo list app: https://drive.google.com/file/d/1UL_vI9Wy1a4skDzK9d3nQoA5SnJof10x/view.
 2. Extract the compressed file and move this to a safe, file location
